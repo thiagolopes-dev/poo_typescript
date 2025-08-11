@@ -1,0 +1,20 @@
+{
+  "name": "poo_typescript",
+  "version": "1.0.0",
+  "description": "Iniciando com typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+   "dependencies": {
+    "@types/prompt-sync": "4.1.1",
+    "prompt-sync": "4.2.0"
+  },
+  "devDependencies": {
+    "ts-node": "8.10.2",
+    "typescript": "4.3.5"
+  }
+}
