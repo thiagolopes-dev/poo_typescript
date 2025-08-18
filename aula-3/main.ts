@@ -15,7 +15,7 @@ while (option !== 9) {
     console.log('9. Sair               👉         ');
     console.log('=================================+');
 
-    option = +teclado('Ecolha uma ação: ');
+    option = +teclado('Escolha uma ação: ');
 
     switch (option) {
         case 1:

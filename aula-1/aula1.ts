@@ -14,7 +14,6 @@ person.ataque = 300;
 person.vida = 2;
 person.defesa = 50;
 
-
 console.log(`Personagem:\n Nome:👽  ${person.nome} \n Energia:👾 ${person.energia}` );
 
 
